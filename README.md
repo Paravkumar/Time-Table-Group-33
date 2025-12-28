@@ -1,4 +1,4 @@
-# 🗓️ IIT Delhi Weekly Timetable – Aman Balara
+# 🗓️ IIT Delhi Weekly Timetable – Parav Kumar
 
 This is a personal HTML-based timetable page created to easily view and manage my weekly schedule at IIT Delhi.
 
